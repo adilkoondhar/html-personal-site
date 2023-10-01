@@ -1,0 +1,31 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    color: grey;
+    width: 4%;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+.pic {
+    height: 150px;
+    border-radius: 50%;
+}
+.pic:hover {
+    background-color: green;
+}
+
+#t1:hover {
+    background-color: gold;
+}
