@@ -1,3 +1,2 @@
 # html-personal-site
-A practice personal website based mainly on html.
-A practice project to start web development.
+This is a personal website primarily built with HTML, serving as a beginner's practice project to kickstart web development.
